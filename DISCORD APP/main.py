@@ -21,6 +21,7 @@ async def on_ready():
 
 @client.event
 async def on_message(message):
+  print(message.content)
   if message.author == client.user:
     return
 
@@ -35,6 +36,12 @@ async def on_message(message):
 
         **Kaleth Renteria (keileth)**
         [GitHub](https://github.com/keileth)
+        """
+    await message.channel.send(github_message)
+  
+  if message.content.startswith('< 3'):
+    github_message = """
+        tito te ama :3
         """
     await message.channel.send(github_message)
 
