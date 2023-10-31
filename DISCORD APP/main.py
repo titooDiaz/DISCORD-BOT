@@ -20,7 +20,13 @@ async def on_ready():
 
 tasks = []
 
+@client.event
+async def on_member_join(member):
+    rol_id = 1163182355708661900
+    rol = member.guild.get_role(rol_id)
 
+    if rol:
+        await member.add_roles(rol)
 
 @client.event
 async def on_message(message):
@@ -105,10 +111,8 @@ async def on_message(message):
     await message.channel.send(mensaje)
   
   if message.content.startswith('< 3'):
-    message = """
-      :<3: tito te ama :3
-      """
-    await message.channel.send(message)
+    mensaje = ":<3: tito te ama :3"
+    await message.channel.send(mensaje)
 
   if message.content.startswith('!tasks'):
     print(tasks)
