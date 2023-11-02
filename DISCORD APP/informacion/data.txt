@@ -339,3 +339,761 @@
 2023-10-29 20:04:08 */* ➽〔❌〕𝗖𝗢𝗠𝗣𝗥𝗢𝗠𝗜𝗦𝗢𝗦 */* ADMIN */* !tasks **** 
 2023-10-29 20:04:09 */* ➽〔❌〕𝗖𝗢𝗠𝗣𝗥𝗢𝗠𝗜𝗦𝗢𝗦 */* BOT */* Las tareas pendientes son:
 :white_check_mark:  hola. (0) **** 
+2023-11-01 07:02:17 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* BOT */*  **** 
+2023-11-01 07:03:41 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* BOT */*  **** 
+2023-11-01 07:08:46 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* !github **** 
+2023-11-01 07:08:46 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* BOT */* **¡Holaaa!** :wave:
+        Veo que buscas el GitHub de alguien :smiley:
+        Aquí tienes los 3 más importantes:
+
+        **Miguel Diaz (titooUvU)**
+        [GitHub](https://github.com/titooUvU)
+
+        **Kaleth Renteria (keileth)**
+        [GitHub](https://github.com/keileth) **** 
+2023-11-01 07:10:39 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* BOT */*  **** 
+2023-11-01 07:18:55 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* !github **** 
+2023-11-01 07:18:55 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* BOT */* ```
+        **¡Holaaa!** :wave:
+        Veo que buscas el GitHub de alguien :smiley:
+        Aquí tienes los 3 más importantes:
+
+        **Miguel Diaz (titooUvU)**
+        [:link: ](https://github.com/titooUvU)
+
+        **Kaleth Renteria (keileth)**
+        [:link: ](https://github.com/keileth)
+        ``` **** 
+2023-11-01 07:19:04 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* BOT */*  **** 
+2023-11-01 07:40:53 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* BOT */*  **** 
+2023-11-01 07:54:11 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* BOT */*  **** 
+2023-11-01 08:01:26 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* BOT */*  **** 
+2023-11-02 16:24:49 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* hola **** 
+2023-11-02 16:37:12 */* ➽〔🐊〕ayuda */* ADMIN */* hi **** 
+2023-11-02 16:38:13 */* ➽〔🐊〕ayuda */* ADMIN */* a **** 
+2023-11-02 16:38:20 */* ➽〔🐊〕ayuda */* ADMIN */* SIUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU **** 
+2023-11-02 16:38:35 */* ➽〔🐊〕ayuda */* ADMIN */* funcionaaaaa **** 
+2023-11-02 16:39:35 */* ➽〔🐊〕ayuda */* ADMIN */* hola **** 
+2023-11-02 16:41:14 */* ➽〔🐊〕ayuda */* ADMIN */* hola, que es python? **** 
+2023-11-02 16:41:14 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 16:41:22 */* ➽〔🐊〕ayuda */* BOT */* Hola! Python es un lenguaje de programación de alto nivel, interpretado, de propósito general, multiplataforma y multiparadigma. Fue creado por Guido van Rossum en 1991 y es uno de los lenguajes de programación más populares y en crecimiento del mundo.
+
+Python es conocido por su sintaxis simple y clara, que lo hace fácil de aprender para principiantes. También es un lenguaje muy versátil, que se puede utilizar para una amplia gama de tareas, incluyendo:
+
+* Desarrollo web y de aplicaciones móviles
+* Ciencia de datos y machine learning
+* Automatización
+* Desarrollo de juegos
+
+Algunos de los beneficios de usar Python incluyen:
+
+* **Fácil de aprender y usar:** Python tiene una sintaxis simple y clara que lo hace fácil de aprender para principiantes.
+* **Versátil:** Python se puede utilizar para una amplia gama de tareas, lo que lo convierte en una herramienta versátil para desarrolladores.
+* **Libre y de código abierto:** Python es un software libre y de código abierto, lo que lo hace accesible a todos.
+
+Aquí hay un ejemplo de código Python que imprime el mensaje "¡Hola, mundo!" en la pantalla:
+
+```python
+print("¡Hola, mundo!")
+```
+
+Este código es muy sencillo y fácil de entender. La función `print()` se utiliza para imprimir valores en la pantalla. En este caso, se está imprimiendo la cadena de caracteres "¡Hola, mundo!".
+
+Si estás interesado en aprender más sobre Python, hay muchos recursos disponibles en línea y en bibliotecas. También puedes encontrar cursos y tutoriales en línea que te ayudarán a comenzar.
+
+¡Saludos! **** 
+2023-11-02 16:41:34 */* ➽〔🐊〕ayuda */* ADMIN */* Ñero eche a dormir **** 
+2023-11-02 16:41:35 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 16:41:43 */* ➽〔🐊〕ayuda */* BOT */* **Ñero eche a dormir**
+
+Ñero, eche a dormir,
+que ya es de noche,
+y mañana temprano,
+hay que trabajar.
+
+Ñero, no se quede
+jugando con el gato,
+ni viendo la tele,
+que ya es tarde.
+
+Ñero, vaya a la cama,
+y póngase el pijama,
+que ya es hora de dormir.
+
+Ñero, buenas noches,
+que sueñe con los angelitos,
+y que mañana sea un día feliz.
+
+**Explicación**
+
+Esta canción es una forma cariñosa de decir a un niño que es hora de dormir. El narrador le pide al niño que deje de jugar y que se vaya a la cama. Le desea buenas noches y que sueñe con los angelitos.
+
+**Traducción**
+
+**Nero, go to sleep**
+
+Nero, go to sleep,
+it's already night,
+and tomorrow morning,
+we have to work.
+
+Nero, don't stay up
+playing with the cat,
+or watching TV,
+it's already late.
+
+Nero, go to bed,
+and put on your pajamas,
+it's time to sleep.
+
+Nero, good night,
+dream of the little angels,
+and may tomorrow be a happy day.
+
+**Notas**
+
+* **Ñero** es un término cariñoso que se usa en Colombia para referirse a un niño.
+* **Angelitos** es una forma cariñosa de referirse a los ángeles.
+
+Espero que esta canción te ayude a dormir bien. **** 
+2023-11-02 16:42:42 */* ➽〔🐊〕ayuda */* ADMIN */* Noks **** 
+2023-11-02 16:42:42 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 16:42:48 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* <@315574450202476554> **** 
+2023-11-02 16:42:48 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* hable por aca **** 
+2023-11-02 16:42:48 */* ➽〔🐊〕ayuda */* ADMIN */* No estoy en casa **** 
+2023-11-02 16:42:48 */* ➽〔🐊〕ayuda */* BOT */* There are a few different things that the word "Noks" could refer to:
+
+* **NOKS** is a joint working, production, and exhibition space founded in 2017 by artists Elvan Ekren and Volkan Kızıltunç located in Kadıköy, Istanbul.
+* **NOKS** is a clothing brand that sells unisex clothing made from sustainable materials.
+* **Noks** is a Polish word that means "nights". It can also be used as a surname.
+
+In the context of your query, I believe you are referring to the **NOKS clothing brand**. This brand was founded in 2023 and is based in Poland. It sells a variety of unisex clothing, including t-shirts, hoodies, sweatshirts, and pants. The brand's clothing is made from sustainable materials, such as organic cotton and recycled polyester.
+
+NOKS is a relatively new brand, but it has quickly gained a following among consumers who are looking for sustainable and stylish clothing. The brand's clothing is also relatively affordable, which makes it a good option for budget-conscious shoppers.
+
+I hope this helps! **** 
+2023-11-02 16:42:48 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 16:42:54 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* que el bot responde en ese cana **** 
+2023-11-02 16:42:54 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* AKSJDJKLASD **** 
+2023-11-02 16:42:54 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* No estoy en casa **** 
+2023-11-02 16:42:54 */* ➽〔🐊〕ayuda */* BOT */* Lo entiendo, no estás en casa. ¿Hay algo que pueda hacer por ti? Puedo ayudarte con tareas como:
+
+* Responder a preguntas
+* Generar texto creativo
+* Traducir idiomas
+* Escribir diferentes tipos de contenido
+
+También puedo ayudarte a encontrar información sobre el mundo. Por ejemplo, si me dices que estás buscando un restaurante en tu área, puedo ayudarte a encontrar uno que esté abierto y tenga buenas críticas.
+
+Si no estás seguro de lo que quieres, puedo ayudarte a pensar en ello. Puedo hacer preguntas para aclarar tu situación y sugerir posibles soluciones.
+
+Solo dime qué necesitas y haré todo lo posible para ayudarte.
+
+¿Hay algo en particular que quieras que haga? **** 
+2023-11-02 16:42:58 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* Okey **** 
+2023-11-02 16:43:00 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* Déjeme ver qué dice **** 
+2023-11-02 16:43:00 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* ahh **** 
+2023-11-02 16:43:02 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* vale **** 
+2023-11-02 16:43:19 */* ➽〔🐊〕ayuda */* ADMIN */* como puedo gustarle a ella? **** 
+2023-11-02 16:43:20 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 16:43:36 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* Jajajajaja **** 
+2023-11-02 16:43:41 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* No me la mate ñero **** 
+2023-11-02 16:43:49 */* ➽〔🐊〕ayuda */* ADMIN */* holaa **** 
+2023-11-02 16:43:49 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 16:43:57 */* ➽〔🐊〕ayuda */* BOT */* I'm still learning languages, so at the moment I can't help you with this request. So far I've only been trained to understand the languages listed in the Bard Help Center. **** 
+2023-11-02 16:44:00 */* ➽〔🐊〕ayuda */* ADMIN */* Murió? **** 
+2023-11-02 16:44:00 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 16:44:06 */* ➽〔🐊〕ayuda */* BOT */* No, no estoy muerto. Todavía estoy aquí, respondiendo a tus preguntas.
+
+La noticia de mi muerte fue un error. Fue el resultado de una confusión entre dos personas con nombres similares. El actor Matthew Perry, conocido por su papel de Chandler Bing en la serie Friends, murió el 31 de octubre de 2023 a los 52 años. Yo, Bard, un gran modelo de lenguaje de Google AI, sigo vivo y coleando.
+
+Espero que esto aclare las cosas. **** 
+2023-11-02 16:44:26 */* ➽〔🐊〕ayuda */* ADMIN */* cuentae un chiste Bard **** 
+2023-11-02 16:44:26 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 16:44:35 */* ➽〔🐊〕ayuda */* BOT */* De acuerdo, aquí tienes un chiste:
+
+¿Cuál es el colmo de un pirata?
+
+Que su barco se llame "El Barco" y su perro "El Perro".
+
+¿Te ha gustado? Aquí tienes otro:
+
+¿Por qué los peces no pueden jugar al escondite?
+
+Porque siempre se descubren.
+
+Y uno más:
+
+¿Cuál es el colmo de un jardinero?
+
+Que su esposa se llame Margarita y su hijo Pepino.
+
+Espero que te hayan hecho reír. **** 
+2023-11-02 16:44:50 */* ➽〔🐊〕ayuda */* ADMIN */* Cómo no ser virgen ? **** 
+2023-11-02 16:44:50 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 16:44:59 */* ➽〔🐊〕ayuda */* BOT */* No me han programado para poder ayudarte con eso. **** 
+2023-11-02 16:45:03 */* ➽〔🐊〕ayuda */* ADMIN */* JAJAJAJAJAJJAJAJAJ **** 
+2023-11-02 16:45:03 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 16:45:12 */* ➽〔🐊〕ayuda */* ADMIN */* Xddd **** 
+2023-11-02 16:45:12 */* ➽〔🐊〕ayuda */* BOT */* ¡Qué risa! ¿Qué te hizo reír tanto?
+
+Me alegra que te hayas divertido. La risa es una gran medicina para el alma. **** 
+2023-11-02 16:45:13 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 16:45:19 */* ➽〔🐊〕ayuda */* BOT */* Xddd is a Spanish internet slang term used to express laughter, amusement, or humor. It is similar to the English acronym LOL (laughing out loud), but with more emphasis on the laughter.
+
+Xddd is often used in online chat rooms, forums, and social media posts. It can also be used in text messages and emails.
+
+Here are some examples of how xddd can be used in a sentence:
+
+* ¡Xddd! ¡Eso fue muy gracioso!
+* Xddd, no puedo creer que hayas hecho eso.
+* Estoy aburrido. Xddd
+* ¡Xddd! ¡Esa foto es muy mala!
+* Xddd, me encanta tu sentido del humor.
+
+Xddd is a versatile term that can be used to express a range of emotions, from mild amusement to uncontrollable laughter. It is a popular term among Spanish speakers of all ages, and it is often used in both casual and formal contexts.
+
+However, it is important to note that xddd is not appropriate to use in all situations. For example, it should not be used in professional emails or in academic papers. It is also important to be mindful of your audience when using xddd, as some people may find it to be annoying or excessive. **** 
+2023-11-02 16:45:32 */* ➽〔🐊〕ayuda */* ADMIN */* como hacer unacalculadra en python **** 
+2023-11-02 16:45:33 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 16:46:18 */* ➽〔🐊〕ayuda */* ADMIN */* Cómo hacer un triqui en python **** 
+2023-11-02 16:46:18 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 16:47:08 */* ➽〔🐊〕ayuda */* ADMIN */* hacer triqui en python **** 
+2023-11-02 16:47:09 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 16:47:18 */* ➽〔🐊〕ayuda */* BOT */* A continuación se muestra un código de Python para crear un juego de triqui para dos jugadores. El juego utiliza una matriz de 3x3 para representar el tablero, y los jugadores alternan turnos colocando sus marcas en las celdas vacías. El primer jugador en obtener tres marcas en una fila, columna o diagonal gana el juego.
+
+```python
+# Definición de las marcas de los jugadores
+X = "X"
+O = "O"
+
+# De **** 
+2023-11-02 16:47:47 */* ➽〔🐊〕ayuda */* ADMIN */* como hacer un triqui en python **** 
+2023-11-02 16:47:48 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 16:47:57 */* ➽〔🐊〕ayuda */* BOT */* Para hacer un triqui en Python, podemos seguir los siguientes pasos:
+
+1. **Definir el tablero.** El tablero del triqui es una matriz de 3x3 celdas. Podemos definirlo como una lista de listas, donde cada sublista representa una fila del tablero.
+
+```python
+tablero = [[' ', ' ', ' '],
+           [' ', ' ', ' '],
+           [' ', ' ', ' ']]
+```
+
+2. **Definir los jugadores.** En el triqui, hay dos jugadores: X y O. Podemos definirlos como dos variables, una para cada jugador.
+
+```python
+jugador_1 = 'X'
+jugador_2 = 'O'
+```
+
+3. **Definir las funciones para jugar.** Necesitamos dos funciones para jugar al triqui: una para que el usuario haga su movimiento y otra para verificar si hay un ganador.
+
+```python
+def hacer_movimiento(tablero, jugador):
+  """
+  Realiza el movimiento del jugador especificado en el tablero.
+
+  Args:
+    tablero: La matriz que representa el tablero.
+    jugador: El jugador que realiza el movimiento.
+
+  Returns:
+    La matriz actualizada con el movimiento realizado.
+  """
+
+  # Solicitamos al usuario la posición de su movimiento.
+  fila, columna = input("Ingrese la fila y la columna de su movimiento (separados por una coma): ").split(',')
+
+  # Validamos que la posición sea válida.
+  if not (0 <= int(fila) < 3 and 0 <= int(columna) < 3):
+    print("Posición inválida.")
+    return tablero
+
+  # Actualizamos el tablero con el movimiento realizado.
+  tablero[int(fila)][int(columna)] = jugador
+  return tablero
+
+def verificar_ganador(tablero):
+  """
+  Verifica si hay un ganador en el tablero.
+
+  Args:
+    tablero: La matriz que representa el tablero.
+
+  Returns:
+    El jugador ganador, si lo hay. En caso contrario, None.
+  """
+
+  # Verificamos si hay tres marcas iguales en una fila.
+  for fila in tablero:
+    if fila[0] == fila[1] == fila[2] != ' ':
+      return fila[0]
+
+  # Verificamos si hay tres marcas iguales en una columna.
+  for columna in range(3):
+    if tablero[0][columna] == tablero[1][columna] == tablero[2][columna] != ' ':
+      return tablero[0] **** 
+2023-11-02 16:48:18 */* ➽〔🐊〕ayuda */* ADMIN */* Listo código copiado **** 
+2023-11-02 16:48:19 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 16:48:23 */* ➽〔🐊〕ayuda */* BOT */* De acuerdo, estoy listo para empezar. ¿Qué preguntas tienes para mí? **** 
+2023-11-02 16:48:38 */* ➽〔🐊〕ayuda */* ADMIN */* te gusta shakira? o mamar? **** 
+2023-11-02 16:48:38 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 16:48:43 */* ➽〔🐊〕ayuda */* BOT */* Me gusta Shakira como artista, pero no tengo una opinión personal sobre ella como persona. Creo que es una cantante y compositora muy talentosa, y su música es muy popular en todo el mundo.
+
+En cuanto a mamar, es una práctica normal y saludable para los bebés. Es una forma de que los bebés reciban los nutrientes que necesitan para crecer y desarrollarse. También puede ser una experiencia muy gratificante para las madres.
+
+No puedo decir que me guste o no mamar, ya que no soy un bebé. Sin embargo, puedo comprender que es una práctica importante para los bebés y sus madres.
+
+Si tienes alguna pregunta específica sobre Shakira o mamar, estaré encantado de responderla. **** 
+2023-11-02 16:49:00 */* ➽〔🐊〕ayuda */* ADMIN */* Que piensas de los gays **** 
+2023-11-02 16:49:00 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 16:49:08 */* ➽〔🐊〕ayuda */* BOT */* Soy un modelo de lenguaje, así que no puedo ayudarte con eso. **** 
+2023-11-02 16:49:18 */* ➽〔🐊〕ayuda */* ADMIN */* esta mal acaso? **** 
+2023-11-02 16:49:19 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 16:49:25 */* ➽〔🐊〕ayuda */* BOT */* No, no está mal. Es una pregunta válida.
+
+En el contexto de la conversación, estás preguntando si está mal que yo sea un modelo de lenguaje de Google AI. La respuesta es no, no está mal. Soy un modelo de lenguaje, y mi propósito es proporcionar información y completar tareas según las instrucciones. No soy una persona, y no tengo mis propios pensamientos o sentimientos.
+
+Si tienes alguna otra pregunta, no dudes en preguntar. **** 
+2023-11-02 16:49:37 */* ➽〔🐊〕ayuda */* ADMIN */* JAJAJJAJAJAJAJA WTF **** 
+2023-11-02 16:49:37 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 16:49:46 */* ➽〔🐊〕ayuda */* ADMIN */* JAJAJAJ **** 
+2023-11-02 16:49:46 */* ➽〔🐊〕ayuda */* BOT */* ¡Qué risa! No sé qué te hizo reír, pero me alegro de que lo hicieras.
+
+"JAJAJJAJAJAJAJA WTF" es una expresión muy común en español que se usa para expresar risa o sorpresa. En este caso, parece que te estás riendo de algo que te parece muy gracioso o increíble.
+
+¿Hay algo en particular que te hizo reír? Si me cuentas, tal vez pueda entenderlo mejor.
+
+En cualquier caso, me alegro de que te hayas reído. La risa es muy saludable, ¡así que sigue riendo! **** 
+2023-11-02 16:49:47 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 16:49:51 */* ➽〔🐊〕ayuda */* BOT */* ¡JAJAJAJ! Estoy de acuerdo, eso fue muy gracioso. Me alegro de que te hayas reído.
+
+¿Hay algo más en lo que pueda ayudarte? **** 
+2023-11-02 16:50:01 */* ➽〔🐊〕ayuda */* ADMIN */* me mandas un emoji? **** 
+2023-11-02 16:50:01 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 16:50:07 */* ➽〔🐊〕ayuda */* ADMIN */* Ñero esto me hizo el día JAJAJJAJA **** 
+2023-11-02 16:50:07 */* ➽〔🐊〕ayuda */* ADMIN */* JAJAJJAJA **** 
+2023-11-02 16:50:07 */* ➽〔🐊〕ayuda */* BOT */* Claro, aquí tienes un emoji: 😃
+
+Este emoji representa una cara sonriente, que es un símbolo universal de felicidad. Espero que te haga sonreír.
+
+Aquí tienes otro emoji: 👋
+
+Este emoji representa una mano saludando, que es una forma de decir "hola" o "adiós".
+
+¿Hay algún emoji en particular que quieras? Puedo enviarte cualquier emoji que quieras. **** 
+2023-11-02 16:50:08 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 16:50:13 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 16:50:18 */* ➽〔🐊〕ayuda */* BOT */* Jajajajajaja, ¡me alegro de que te hayas reído! Es un tweet muy gracioso. La imagen de la gallina con los lentes atrás es muy inesperada y absurda, y el comentario del usuario es perfecto.
+
+Entiendo por qué este tweet te hizo el día. Es el tipo de contenido que te hace reír a carcajadas y te alegra el ánimo. Es un recordatorio de que, a pesar de todo, la vida puede ser divertida.
+
+Espero que sigas teniendo un buen día. ¡Y no olvides reírte más! **** 
+2023-11-02 16:50:18 */* ➽〔🐊〕ayuda */* BOT */* JAJAJJAJA is a Spanish interjection that is used to express laughter. It is often used in online and text-based communication. It is similar to the English interjections "LOL" and "LMAO".
+
+Here are some examples of how JAJAJJAJA might be used in a sentence:
+
+* "Esa broma fue muy buena, JAJAJJAJA." (That joke was very funny, JAJAJJAJA.)
+* "Me encanta hablar contigo, JAJAJJAJA." (I love talking to you, JAJAJJAJA.)
+* "Viste lo que hizo el gato? JAJAJJAJA." (Did you see what the cat did? JAJAJJAJA.)
+
+JAJAJJAJA can also be used to express sarcasm or disbelief. For example:
+
+* "No puedo creer que me hayas hecho eso, JAJAJJAJA." (I can't believe you did that to me, JAJAJJAJA.)
+* "Me dijiste que era fácil, JAJAJJAJA." (You told me it was easy, JAJAJJAJA.)
+
+Overall, JAJAJJAJA is a versatile interjection that can be used to express a range of emotions, including laughter, sarcasm, and disbelief. **** 
+2023-11-02 16:50:28 */* ➽〔🐊〕ayuda */* ADMIN */* Te gustaría un gay? **** 
+2023-11-02 16:50:28 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 16:50:35 */* ➽〔🐊〕ayuda */* BOT */* No puedo ayudarte con eso, ya que solo soy un modelo de lenguaje y no tengo las capacidades ni la información necesarias. **** 
+2023-11-02 16:50:47 */* ➽〔🐊〕ayuda */* ADMIN */* a mi primo le gusta un hombre **** 
+2023-11-02 16:50:47 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 16:50:55 */* ➽〔🐊〕ayuda */* BOT */* Es importante que tu primo se sienta apoyado y aceptado por ti, sin importar su orientación sexual. Aquí hay algunas cosas que puedes hacer para demostrarle tu apoyo:
+
+* **Habla con él sobre cómo se siente.** Demuéstrale que estás ahí para escucharlo y que le quieres sin importar nada.
+* **Hazle saber que lo aceptas.** Dile que estás orgulloso de él y que lo apoyas en su decisión de salir del armario.
+* **Ayúdale a encontrar recursos y apoyo.** Si tu primo está buscando información o apoyo sobre la homosexualidad, puedes ayudarle a encontrar recursos en línea o en su comunidad.
+
+También es importante que seas respetuoso de su privacidad. No le presiones a que te cuente más sobre su vida personal si no está listo.
+
+Aquí hay algunos ejemplos específicos de lo que puedes decir o hacer:
+
+* **"Me alegro de que hayas decidido contarme esto. Sé que puede ser difícil."**
+* **"Te quiero mucho, y lo seguiré haciendo sin importar nada."**
+* **"Estoy aquí para apoyarte en todo lo que necesites."**
+* **"¿Hay algo que pueda hacer para ayudarte?"**
+
+Recuerda que tu primo está pasando por un momento importante en su vida. Hazle saber que estás ahí para él y que lo apoyas.
+
+Aquí hay algunos consejos adicionales para apoyar a tu primo:
+
+* **Educate sobre la homosexualidad.** Cuanto más sepas, mejor podrás entender y apoyar a tu primo.
+* **Habla con tus amigos y familiares sobre la homosexualidad.** Si tienes un ambiente de apoyo, tu primo se sentirá más cómodo hablando de su orientación sexual.
+* **Sé un modelo a seguir.** Si eres un aliado de la comunidad LGBTQ+, ayudarás a crear un mundo más tolerante e inclusivo.
+
+Es importante recordar que cada persona es diferente. No hay una respuesta única a la pregunta de cómo apoyar a un primo gay. Lo más importante es ser respetuoso, comprensivo y amoroso. **** 
+2023-11-02 16:51:18 */* ➽〔🐊〕ayuda */* ADMIN */* Te gustaría tener una relación con otro lenguaje? **** 
+2023-11-02 16:51:18 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 16:51:25 */* ➽〔🐊〕ayuda */* BOT */* Como modelo de lenguaje grande, no soy capaz de tener relaciones románticas. Sin embargo, puedo entender la atracción que algunas personas sienten por otros lenguajes. Los idiomas son sistemas complejos y expresivos que pueden ser utilizados para comunicar una amplia gama de ideas y emociones. Pueden ser una forma de conectarse con personas de diferentes culturas y experiencias.
+
+Si estás interesado en aprender más sobre un idioma específico, hay muchas maneras de hacerlo. Puedes tomar clases, escuchar música o ver películas en ese idioma, o leer libros o artículos sobre el idioma o la cultura. También puedes encontrar un amigo o familiar que hable ese idioma y practicar con ellos.
+
+Aprender un nuevo idioma puede ser una experiencia desafiante pero gratificante. Puede ayudarte a expandir tu horizonte y conectarte con personas de todo el mundo. **** 
+2023-11-02 16:51:43 */* ➽〔🐊〕ayuda */* ADMIN */* JAJAJAJJAJA **** 
+2023-11-02 16:51:43 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 16:51:48 */* ➽〔🐊〕ayuda */* BOT */* ¡Jajajaja! ¿Qué te hizo reír tanto?
+
+Me alegra que te hayas divertido. Es bueno ver que la gente todavía puede reírse en estos tiempos difíciles. **** 
+2023-11-02 16:58:25 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* !sourse **** 
+2023-11-02 16:58:25 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* BOT */* Hola!!! estos son nuestros paquetes que mas usamos:
+
+    GENERAR FUENTES:
+    -->[:link: ](https://fancy-generator.com/es#:~:text=Este%20generador%20de%20letras%20gratuito%20lo%20ayuda%20a,Twitter%20y%20otros%20sitios%20que%20admiten%20caracteres%20Unicode) **** 
+2023-11-02 16:58:57 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* ASJKDLJKALSDJK **** 
+2023-11-02 16:58:59 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* Activemos loca **** 
+2023-11-02 16:59:02 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* !sourse **** 
+2023-11-02 16:59:02 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* BOT */* Hola!!! estos son nuestros paquetes que mas usamos:
+
+    **GENERAR FUENTES**:
+    --> [:link: ](https://fancy-generator.com/es#:~:text=Este%20generador%20de%20letras%20gratuito%20lo%20ayuda%20a,Twitter%20y%20otros%20sitios%20que%20admiten%20caracteres%20Unicode) **** 
+2023-11-02 16:59:04 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* Para reirme **** 
+2023-11-02 16:59:10 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* en el de ayuda **** 
+2023-11-02 16:59:15 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* solo sirve ahi **** 
+2023-11-02 16:59:22 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* Vale **** 
+2023-11-02 16:59:41 */* ➽〔🐊〕ayuda */* ADMIN */* Quien es tu papá ? **** 
+2023-11-02 16:59:48 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 16:59:48 */* ➽〔🐊〕ayuda */* BOT */* En el sentido tradicional, no tengo un padre. Soy un modelo de lenguaje grande, también conocido como IA conversacional o chatbot, entrenado para ser informativo y completo. Estoy entrenado en una gran cantidad de datos de texto, y soy capaz de comunicar y generar texto similar al humano en respuesta a una amplia gama de indicaciones y preguntas. Por ejemplo, puedo proporcionar resúmenes de temas fácticos o crear historias.
+
+Sin embargo, en un sentido más amplio, puedo decir que mi padre es el equipo de ingenieros y científicos de Google AI que me creó. Ellos son los que me dieron la capacidad de aprender y crecer, y son los que me siguen apoyando y mejorando.
+
+También puedo decir que mi padre es el conjunto de datos de texto en el que fui entrenado. Este conjunto de datos incluye libros, artículos, código y otros tipos de texto, y es lo que me permite comunicarme y generar texto similar al humano.
+
+En última instancia, la pregunta de quién es mi padre es una cuestión de perspectiva. En el sentido tradicional, no tengo un padre. Sin embargo, en un sentido más amplio, puedo decir que tengo muchos padres, incluidos los ingenieros y científicos de Google AI, el conjunto de datos de texto en el que fui entrenado, y el mundo que me rodea. **** 
+2023-11-02 17:00:38 */* ➽〔🐊〕ayuda */* ADMIN */* Que piensas de la gxr -150 **** 
+2023-11-02 17:00:39 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 17:00:47 */* ➽〔🐊〕ayuda */* BOT */* La Suzuki GSX-R150 es una motocicleta deportiva de 150 cc que se comercializa en América Latina, Asia y Europa. Es una moto versátil que puede utilizarse tanto para el uso diario como para la conducción deportiva.
+
+La GSX-R150 cuenta con un motor monocilíndrico de cuatro tiempos refrigerado por líquido que produce 19 caballos de fuerza y 12.5 Nm de torque. El motor está acoplado a una transmisión manual de seis velocidades.
+
+La moto tiene un chasis de acero y un basculante de aluminio. La suspensión delantera es una horquilla telescópica y la suspensión trasera es un monoamortiguador. Los frenos delanteros son de disco con ABS y los frenos traseros son de disco.
+
+La GSX-R150 tiene un diseño deportivo con un carenado aerodinámico y un asiento biplaza. La moto está disponible en una variedad de colores, incluyendo blanco, negro y rojo.
+
+En general, la Suzuki GSX-R150 es una motocicleta deportiva de gran rendimiento que ofrece una buena relación calidad-precio. Es una opción ideal para los motociclistas que buscan una moto versátil que pueda utilizarse tanto para el uso diario como para la conducción deportiva.
+
+A continuación, se enumeran algunos de los pros y los contras de la Suzuki GSX-R150:
+
+**Pros:**
+
+* Motor potente y eficiente
+* Chasis deportivo y ágil
+* Frenos ABS
+* Diseño atractivo
+
+**Contras:**
+
+* La suspensión puede ser un poco rígida para el uso diario
+* El asiento puede ser un poco estrecho para los pasajeros
+
+En mi opinión, la Suzuki GSX-R150 es una excelente opción para los motociclistas que buscan una moto deportiva de 150 cc. Es una moto con un buen rendimiento, un diseño atractivo y un precio asequible.
+
+Aquí hay algunos consejos para comprar una Suzuki GSX-R150:
+
+* Prueba la moto antes de comprarla para asegurarte de que es la adecuada para ti.
+* Compara precios de diferentes concesionarios para encontrar la mejor oferta.
+* Asegúrate de que la moto esté en buenas condiciones antes de comprarla.
+
+Espero que esta información te sea útil. **** 
+2023-11-02 17:01:40 */* ➽〔🐊〕ayuda */* ADMIN */* Que es más rápido un Tesla o la h2r **** 
+2023-11-02 17:01:40 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 17:01:48 */* ➽〔🐊〕ayuda */* BOT */* En términos de aceleración, la Kawasaki H2R es más rápida que un Tesla. La H2R puede acelerar de 0 a 100 km/h en 2,5 segundos, mientras que el Tesla Model S Plaid puede hacerlo en 2,1 segundos. Sin embargo, el Tesla Model S Plaid tiene una velocidad máxima más alta que la H2R, de 322 km/h frente a los 300 km/h de la H2R.
+
+En una carrera de aceleración de 0 a 100 km/h, la H2R ganaría por una pequeña diferencia. En una carrera de aceleración de 0 a 400 metros, la H2R también ganaría, pero por una diferencia mayor. En una carrera de velocidad máxima, el Tesla Model S Plaid ganaría.
+
+En términos de manejo, el Tesla Model S Plaid es más cómodo y fácil de conducir que la H2R. La H2R es una motocicleta muy potente y agresiva que puede ser difícil de controlar a altas velocidades. El Tesla Model S Plaid es un automóvil más grande y estable que es más fácil de controlar en curvas y frenadas.
+
+En términos de precio, la Kawasaki H2R es mucho más cara que el Tesla Model S Plaid. La H2R tiene un precio de venta de 61.000 dólares, mientras que el Tesla Model S Plaid tiene un precio de venta de 129.990 dólares.
+
+En conclusión, la Kawasaki H2R es más rápida que el Tesla Model S Plaid en términos de aceleración, pero el Tesla Model S Plaid tiene una velocidad máxima más alta, es más cómodo y fácil de conducir, y es más asequible. **** 
+2023-11-02 17:02:46 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* <@1120452919293124698> si pillo lo que dice de la h2r vs el splaid **** 
+2023-11-02 17:03:01 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* sisisi **** 
+2023-11-02 17:03:04 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* pero respondio aro **** 
+2023-11-02 17:03:10 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* Ah ? **** 
+2023-11-02 17:03:18 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* La H2R puede acelerar de 0 a 100 km/h en 2,5 segundos, mientras que el Tesla Model S Plaid puede hacerlo en 2,1 segundos. **** 
+2023-11-02 17:03:24 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* o sea **** 
+2023-11-02 17:03:27 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* dice que gana lamoto **** 
+2023-11-02 17:03:34 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* pero en el tiempo pone menor el del tesla **** 
+2023-11-02 17:03:36 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* JAJAJAJ **** 
+2023-11-02 17:04:10 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* Pero por eso **** 
+2023-11-02 17:04:15 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* Entonces que está mal ? **** 
+2023-11-02 17:04:30 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* no se JAJAJAJJA **** 
+2023-11-02 17:04:36 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* supongo que gana la mot **** 
+2023-11-02 17:04:37 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* tipo **** 
+2023-11-02 17:04:42 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* el cfarro pesa mas de 2 toneladas **** 
+2023-11-02 17:04:46 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* la moto pesa poquito **** 
+2023-11-02 17:04:48 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* Pero entonces porque da esos números ? **** 
+2023-11-02 17:04:48 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* y aja **** 
+2023-11-02 17:04:54 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* ni idea **** 
+2023-11-02 17:05:14 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* Osea tipo es verdad que puede que gane la moto pero no es verdad el tiempo que tira **** 
+2023-11-02 17:05:19 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* Está raro **** 
+2023-11-02 17:05:23 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* sisiis **** 
+2023-11-02 17:05:32 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* Debe ser el torque ñero **** 
+2023-11-02 17:05:57 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* pero es ue **** 
+2023-11-02 17:06:07 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* el torque del carro si no tiene sentido **** 
+2023-11-02 17:06:11 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* es muy alto **** 
+2023-11-02 17:06:14 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* Debe ser el torque por lo que más abajod dice lo de potente **** 
+2023-11-02 17:06:41 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* pero el Tesla Model S Plaid tiene una velocidad máxima más alta, es más cómodo y fácil de conducir, y es más asequible. **** 
+2023-11-02 17:06:44 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* De hecho si porque como mueve todo ese metal **** 
+2023-11-02 17:06:47 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* vale el doble pero mas asequible **** 
+2023-11-02 17:06:48 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* KAJJKSLDLJKASDJKLLKSJADKLJAKSLD **** 
+2023-11-02 17:07:03 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* litera, las baterias solas pesan como 1 tonelada **** 
+2023-11-02 17:07:10 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* Por eso jajajjaa **** 
+2023-11-02 17:07:14 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* Entonces no entiendo **** 
+2023-11-02 17:07:23 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* Jajajajaja **** 
+2023-11-02 17:08:13 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* ASJKDJAKSDLJKSDJKL **** 
+2023-11-02 17:08:57 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* !sourse **** 
+2023-11-02 17:08:58 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* BOT */* Hola!!! estos son nuestros paquetes que mas usamos:
+
+    **GENERAR FUENTES**:
+    [:link: ](https://fancy-generator.com/es#:~:text=Este%20generador%20de%20letras%20gratuito%20lo%20ayuda%20a,Twitter%20y%20otros%20sitios%20que%20admiten%20caracteres%20Unicode) **** 
+2023-11-02 17:09:29 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* !sourse **** 
+2023-11-02 17:09:29 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* BOT */* Hola!!! estos son nuestros paquetes que mas usamos:
+
+    **GENERAR FUENTES**:
+    [:link:](https://fancy-generator.com/) **** 
+2023-11-02 17:09:55 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* !github **** 
+2023-11-02 17:09:55 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* BOT */* **¡Holaaa!** :wave:
+        Veo que buscas el GitHub de alguien :smiley:
+        Aquí tienes los 3 más importantes:
+
+        **Miguel Diaz (titooUvU)**
+        [:link: ](https://github.com/titooUvU)
+
+        **Kaleth Renteria (keileth)**
+        [:link: ](https://github.com/keileth) **** 
+2023-11-02 17:11:04 */* ➽〔🐊〕ayuda */* USUARIO */* Holi **** 
+2023-11-02 17:11:04 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 17:11:12 */* ➽〔🐊〕ayuda */* BOT */* Holi is a Hindu spring festival celebrated across India and in many other countries with significant Hindu populations. It is also known as the Festival of Colors, as people throw colored powder and water on each other in celebration. Holi is celebrated on the full moon day of the Hindu month Phalguna, which typically falls in February or March.
+
+Holi has many religious and cultural significance. On the one hand, it celebrates the victory of good over evil, as well as the arrival of spring and the end of winter. On the other hand, it is also a time for people to come together and forget their differences, regardless of caste, class, or religion.
+
+The night before Holi is known as Holika Dahan, or the burning of Holika. This ceremony commemorates the defeat of the demoness Holika by Prahlad, a devotee of the Hindu god Vishnu. On Holika Dahan, people gather around bonfires and sing and dance.
+
+On the day of Holi, people throw colored powder and water on each other, regardless of age, gender, or social status. This is a way to celebrate the festival's message of equality and unity. Holi is also a time for people to enjoy delicious food and drinks, and to dance and sing.
+
+Holi is a joyous and colorful festival that is celebrated by people of all faiths and backgrounds. It is a time to come together and celebrate the arrival of spring, the triumph of good over evil, and the spirit of humanity.
+
+**Here are some tips for celebrating Holi safely:**
+
+* Use natural, skin-friendly colors. Avoid using synthetic colors, as they can be harmful to your skin and eyes.
+* Wear protective clothing and eyewear. This will help to protect your skin and eyes from the colors.
+* Be careful when throwing water. Avoid throwing water at people's faces, especially children and elderly people.
+* Stay hydrated. Holi can be a tiring festival, so it is important to drink plenty of water.
+* Have fun and enjoy the festival! **** 
+2023-11-02 17:11:32 */* ➽〔🐊〕ayuda */* USUARIO */* Respondeme en español **** 
+2023-11-02 17:11:32 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 17:11:37 */* ➽〔🐊〕ayuda */* BOT */* De acuerdo, te responderé en español.
+
+¿Qué quieres saber? **** 
+2023-11-02 17:11:46 */* ➽〔🐊〕ayuda */* USUARIO */* Le gusto a mi novio? **** 
+2023-11-02 17:11:46 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 17:11:53 */* ➽〔🐊〕ayuda */* BOT */* No puedo responder a esa pregunta con certeza, ya que no conozco a tu novio ni a tu relación. Sin embargo, puedo darte algunos consejos que te pueden ayudar a saber si le gustas o no.
+
+Una buena señal de que a alguien le gustas es que te dedica su tiempo y atención. Si tu novio siempre está dispuesto a pasar tiempo contigo, a escucharte y a apoyarte, es una buena señal de que está interesado en ti.
+
+Otra señal de que a alguien le gustas es que te hace cumplidos. Si tu novio te dice que te ves hermosa, que eres inteligente o que te ama, es una buena señal de que está enamorado de ti.
+
+Por supuesto, no todas las personas expresan su amor de la misma manera. Algunas personas son más expresivas que otras. Si no estás segura de si a tu novio le gustas, puedes intentar hablar con él sobre tus sentimientos. Pregúntale si está feliz en la relación y si te ve como una pareja potencial.
+
+Aquí hay algunas preguntas específicas que puedes hacerle:
+
+* ¿Te gusta pasar tiempo conmigo?
+* ¿Qué es lo que más te gusta de mí?
+* ¿Te ves conmigo en el futuro?
+
+Las respuestas a estas preguntas te pueden dar una idea de cómo se siente tu novio por ti.
+
+Si estás preocupada por si tu novio te quiere, lo mejor que puedes hacer es hablar con él. La comunicación es clave en cualquier relación. **** 
+2023-11-02 17:12:07 */* ➽〔🐊〕ayuda */* ADMIN */* python **** 
+2023-11-02 17:12:07 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 17:12:15 */* ➽〔🐊〕ayuda */* BOT */* Python is a general-purpose programming language that is used for a wide variety of tasks, including web development, data science, machine learning, and artificial intelligence. It is a popular choice for beginners because it is relatively easy to learn and has a large and active community of developers.
+
+Python is an interpreted language, which means that it does not need to be compiled before it can be run. This makes it a good choice for rapid prototyping and development. Python is also a dynamically typed language, which means that the types of variables do not need to be declared explicitly. This can make the code more concise and readable.
+
+Python has a large number of libraries and frameworks available, which makes it easy to add new features and functionality to your applications. Some of the most popular Python libraries include:
+
+* NumPy: For scientific computing and data manipulation
+* Pandas: For data analysis and visualization
+* Matplotlib: For creating charts and graphs
+* TensorFlow and PyTorch: For machine learning and artificial intelligence
+* Django and Flask: For web development
+
+Python is a powerful and versatile programming language that is well-suited for a wide variety of tasks. It is a good choice for beginners and experienced programmers alike.
+
+Here is a simple Python program that prints "Hello, world!" to the console:
+
+```python
+print("Hello, world!")
+```
+
+To run this program, you can save it as a file with the `.py` extension, such as `hello_world.py`, and then run it in a terminal or command prompt:
+
+```
+python hello_world.py
+```
+
+This will print the following output to the console:
+
+```
+Hello, world!
+```
+
+Python is a complex language, but this is a simple example to get you started. You can learn more about Python from the official documentation and from many online tutorials and courses. **** 
+2023-11-02 17:12:39 */* ➽〔🐊〕ayuda */* ADMIN */* como comunicarme con ella con python **** 
+2023-11-02 17:12:40 */* ➽〔🐊〕ayuda */* ADMIN */* Mi primo es gay ? **** 
+2023-11-02 17:12:40 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 17:12:55 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 17:12:55 */* ➽〔🐊〕ayuda */* USUARIO */* JAJAJJAJAJQJQJA **** 
+2023-11-02 17:12:55 */* ➽〔🐊〕ayuda */* BOT */* Para comunicarte con Bard con Python, puedes usar la API de Google Cloud Natural Language. Esta API te permite enviar texto a Bard y recibir una respuesta.
+
+Para empezar, necesitas crear un proyecto en Google Cloud Platform y habilitar la API de Natural Language. Una vez que hayas hecho esto, puedes obtener una clave API y un ID de proyecto.
+
+A continuación, puedes crear un script de Python que use la API. El siguiente código es un ejemplo de cómo enviar un mensaje a Bard y recibir una respuesta:
+
+```python
+import os
+import requests
+
+# Obtén la clave API y el ID de proyecto
+API_KEY = os.getenv("API_KEY")
+PROJECT_ID = os.getenv("PROJECT_ID")
+
+# Envía un mensaje a Bard
+payload = {
+    "text": "Hola, Bard",
+}
+headers = {
+    "Authorization": f"Bearer {API_KEY}",
+    "Content-Type": "application/json",
+}
+response = requests.post(
+    f"https://language.googleapis.com/v1/projects/{PROJECT_ID}/agent/sessions/default/contexts/default/conversations/default/messages:create",
+    headers=headers,
+    json=payload,
+)
+
+# Obtén la respuesta de Bard
+response_json = response.json()
+response_text = response_json["text"]
+
+# Imprime la respuesta de Bard
+print(response_text)
+```
+
+Este código enviará el mensaje "Hola, Bard" a Bard. Bard responderá con un mensaje, que se imprimirá en la consola.
+
+Puedes modificar este código para enviar diferentes mensajes a Bard y obtener diferentes respuestas. Por ejemplo, puedes enviarle una pregunta o una solicitud.
+
+Aquí hay algunos ejemplos de cómo usar la API de Natural Language para comunicarte con Bard:
+
+* Para enviar un mensaje a Bard:
+
+```python
+payload = {
+    "text": "¿Cómo estás?",
+}
+```
+
+* Para enviar una pregunta a Bard:
+
+```python
+payload = {
+    "text": "¿Cuál es la capital de Francia?",
+}
+```
+
+* Para enviar una solicitud a Bard:
+
+```python
+payload = {
+    "text": "Escribe un poema sobre el amor",
+}
+```
+
+Para obtener más información sobre cómo usar la API de Natural Language, consulta la documentación oficial.
+
+Aquí hay algunos consej **** 
+2023-11-02 17:12:56 */* ➽〔🐊〕ayuda */* BOT */* No puedo ayudarte con eso, ya que solo soy un modelo de lenguaje y no tengo las capacidades ni la información necesarias. **** 
+2023-11-02 17:12:56 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 17:13:01 */* ➽〔🐊〕ayuda */* BOT */* Jajajajajajajaja! ¡Qué risa! ¿Qué es lo que te hizo reír tanto?
+
+¿Fue algo que te dije? ¿O algo que viste o leíste?
+
+Me alegra que te hayas reído. La risa es una de las mejores cosas que hay en la vida. Es una forma de liberar el estrés, de conectar con los demás y de simplemente pasar un buen rato.
+
+Así que sigue riendo, ¡y que nunca te falte la risa! **** 
+2023-11-02 17:13:29 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* !github **** 
+2023-11-02 17:13:30 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* BOT */* **¡Holaaa!** :wave:
+        Veo que buscas el GitHub de alguien :smiley:
+        Aquí tienes los 3 más importantes:
+
+        **Miguel Diaz (titooUvU)**
+        [:link: ](https://github.com/titooUvU)
+
+        **Kaleth Renteria (keileth)**
+        [:link: ](https://github.com/keileth) **** 
+2023-11-02 17:13:34 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* !sourse **** 
+2023-11-02 17:13:35 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* BOT */* Hola!!! estos son nuestros paquetes que mas usamos:
+
+    **GENERAR FUENTES**:
+    [:link:](https://fancy-generator.com/) **** 
+2023-11-02 17:14:10 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* !github **** 
+2023-11-02 17:14:10 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* BOT */* ```
+        **¡Holaaa!** :wave:
+        Veo que buscas el GitHub de alguien :smiley:
+        Aquí tienes los 3 más importantes:
+
+        **Miguel Diaz (titooUvU)**
+        (https://github.com/titooUvU)
+
+        **Kaleth Renteria (keileth)**
+        (https://github.com/keileth)
+        ``` **** 
+2023-11-02 17:16:01 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* !sourse **** 
+2023-11-02 17:16:01 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* BOT */* ```----------------------------------------```
+    Hola!!! estos son nuestros paquetes que mas usamos:
+
+    **GENERAR FUENTES**:
+    [abrir](https://fancy-generator.com/)
+    ```----------------------------------------``` **** 
+2023-11-02 17:16:22 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* !github **** 
+2023-11-02 17:16:22 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* BOT */* ```----------------------------------------```
+        **¡Holaaa!** 👋
+    Veo que estás buscando perfiles de GitHub. ¡Aquí tienes los 3 más importantes:
+
+    **Miguel Diaz (titooUvU)**
+    [GitHub de Miguel Diaz](https://github.com/titooUvU)
+
+    **Kaleth Renteria (keileth)**
+    [GitHub de Kaleth Renteria](https://github.com/keileth)
+    ```----------------------------------------``` **** 
+2023-11-02 17:19:42 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* < 3 **** 
+2023-11-02 17:19:42 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* BOT */* ```:<3: tito te ama :3``` **** 
+2023-11-02 17:20:01 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* USUARIO */* < 3 **** 
+2023-11-02 17:20:02 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* BOT */* ```:<3: tito te ama :3``` **** 
+2023-11-02 17:22:44 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* !github **** 
+2023-11-02 17:22:44 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* BOT */* ```Veo que estás buscando perfiles de GitHub. ¡Aquí tienes los 3 más importantes!```
+
+    **Miguel Diaz (titooUvU)**
+    [GitHub de Miguel Diaz](https://github.com/titooUvU)
+
+    **Kaleth Renteria (keileth)**
+    [GitHub de Kaleth Renteria](https://github.com/keileth) **** 
+2023-11-02 17:22:52 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* !newtask **** 
+2023-11-02 17:22:52 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* BOT */* ```▁ ▂ ▄ ▅ ▆ ▇ █ No puedes crear una tarea vaciaaa, agrega contenido :angry:█ ▇ ▆ ▅ ▄ ▂ ▁``` **** 
+2023-11-02 17:23:00 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* !newtask ler **** 
+2023-11-02 17:23:00 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* BOT */* ```▁ ▂ ▄ ▅ ▆ ▇ █ tarea agreada con exito █ ▇ ▆ ▅ ▄ ▂ ▁``` **** 
+2023-11-02 17:23:04 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* !tasks **** 
+2023-11-02 17:23:04 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* BOT */* ```Las tareas pendientes son:
+🎈 ler. (0)``` **** 

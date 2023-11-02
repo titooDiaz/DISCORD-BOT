@@ -1,32 +1,57 @@
 import discord
 import os
+from bardapi import Bard
 from termcolor import colored
-from dotenv import load_dotenv
 import datetime
+from discord.ext import commands
 
 dotenv_path = os.path.join(os.path.dirname(__file__), '../.env')
-load_dotenv(dotenv_path)
+if os.path.isfile(dotenv_path):
+    with open(dotenv_path) as f:
+        for line in f:
+            key, value = line.strip().split('=')
+            os.environ[key] = value
 my_secret = os.getenv('KEY')
 
+#chatbot
+BARDKEY = os.getenv("BARDKEY")#recuerda tener un archivo lalmada .env en la carpeta raiz, con la variable y tu KEY de la API
 
+os.environ["_BARD_API_KEY"] = BARDKEY
+
+#DISCORD BOT CONFIG...
 intents = discord.Intents.default()
 intents.message_content = True
 client = discord.Client(intents=intents)
 
 
+
 @client.event
 async def on_ready():
-  print(f'WUAAAAA, TODO ESTA BIENNN {client.user}')
+  print(f'WUAAAAA, TODO ESTA BIEEEN {client.user}')
 
 tasks = []
 
 @client.event
-async def on_member_join(member):
-    rol_id = 1163182355708661900
-    rol = member.guild.get_role(rol_id)
-
-    if rol:
-        await member.add_roles(rol)
+async def on_raw_reaction_add(payload):
+  if payload.channel_id == 1163145685407903827:
+        emoji = payload.emoji.name
+        message_id = payload.message_id
+        user_id = payload.user_id
+        print(f'El usuario con ID {user_id} reaccionó al mensaje con ID {message_id} con el emoji {emoji}')
+        guild = client.get_guild(payload.guild_id)
+        user = await guild.fetch_member(user_id)
+        rol_id = 1163182355708661900
+        print(user)
+        if user:
+            print(user,'akjsldjkasdj')
+            if discord.utils.get(user.roles, id=rol_id) is None:
+                role = client.get_guild(payload.guild_id).get_role(rol_id)
+                if role:
+                    await user.add_roles(role)
+                    print(f'Se le ha asignado el rol con ID {rol_id} a {user.name} por su reacción.')
+                else:
+                    print(f'El rol con ID {rol_id} no se encontró en el servidor.')
+    
 
 @client.event
 async def on_message(message):
@@ -61,19 +86,28 @@ async def on_message(message):
     return
   ###########3FIN DE CONSOLA Y BLOG DE NOTAS#################
 
+
+  #####################IA###############################
+
+  if message.channel.id == 1169750972617199696:
+    await message.channel.send("```Um... dejame pensar y te digo.```")
+    respuesta = Bard().get_answer(str(message.content))['content']
+    await message.channel.send(respuesta[:1999])
+
+  ###############FIN IA ###############################
+
+
   ##############MENSAJES######################################
   if message.content.startswith('!github'):
     github_message = """
-        **¡Holaaa!** :wave:
-        Veo que buscas el GitHub de alguien :smiley:
-        Aquí tienes los 3 más importantes:
+    ```Veo que estás buscando perfiles de GitHub. ¡Aquí tienes los 3 más importantes!```
 
-        **Miguel Diaz (titooUvU)**
-        [GitHub](https://github.com/titooUvU)
+    **Miguel Diaz (titooUvU)**
+    [GitHub de Miguel Diaz](https://github.com/titooUvU)
 
-        **Kaleth Renteria (keileth)**
-        [GitHub](https://github.com/keileth)
-        """
+    **Kaleth Renteria (keileth)**
+    [GitHub de Kaleth Renteria](https://github.com/keileth)
+    """
     await message.channel.send(github_message)
   
 
@@ -83,11 +117,11 @@ async def on_message(message):
       print("nueva tarea: ", contenido_sin_comando)
       tasks += [contenido_sin_comando]
       mensaje = """
-        ▁ ▂ ▄ ▅ ▆ ▇ █ tarea agreada con exito █ ▇ ▆ ▅ ▄ ▂ ▁
+        ```▁ ▂ ▄ ▅ ▆ ▇ █ tarea agreada con exito █ ▇ ▆ ▅ ▄ ▂ ▁```
         """
     except:
       mensaje = """
-        ▁ ▂ ▄ ▅ ▆ ▇ █ No puedes crear una tarea vaciaaa, agrega contenido :angry:█ ▇ ▆ ▅ ▄ ▂ ▁
+        ```▁ ▂ ▄ ▅ ▆ ▇ █ No puedes crear una tarea vaciaaa, agrega contenido █ ▇ ▆ ▅ ▄ ▂ ▁```
         """
     await message.channel.send(mensaje)
 
@@ -98,38 +132,40 @@ async def on_message(message):
       try:
         del tasks[int(contenido_sin_comando)]
         mensaje = """
-        :white_check_mark: tarea Eliminada con exito
+        ```tarea Eliminada con exito```
         """
       except:
         mensaje = """
-        :x: Porfavor agrega datos validos
+        ```Porfavor agrega datos validos```
         """
     except:
       mensaje = """
-      :x: ou, peudes decirme que tarea borrar? (coloca el numero)
+      ```ou, peudes decirme que tarea borrar? (coloca el numero)```
       """
     await message.channel.send(mensaje)
   
   if message.content.startswith('< 3'):
-    mensaje = ":<3: tito te ama :3"
+    mensaje = "```tito te ama :3```"
     await message.channel.send(mensaje)
 
   if message.content.startswith('!tasks'):
     print(tasks)
     tareas=""
     for n,i in enumerate(tasks):
-      tareas += f'\n:white_check_mark:  {i}. ({n})'
+      tareas += f'\n🎈 {i}. ({n})'
     mensaje =f"""
-    Las tareas pendientes son:{tareas}
+    ```Las tareas pendientes son:{tareas}```
     """
     await message.channel.send(mensaje)
 
   if message.content.startswith('!sourse'):
     mensaje =f"""
-    Hola!!! estos son nuestros paquetes que mas usamos:
+    ```Hola!!! estos son nuestros paquetes que mas usamos:```
+    **GENERAR FUENTES**:
+    [abrir](https://fancy-generator.com/)
 
-    GENERAR FUENTES:
-    --> https://fancy-generator.com/es#:~:text=Este%20generador%20de%20letras%20gratuito%20lo%20ayuda%20a,Twitter%20y%20otros%20sitios%20que%20admiten%20caracteres%20Unicode
+    **GENERAR TEMAS DE COLORES**:
+    [abrir](https://uicolors.app/create)
     """
     await message.channel.send(mensaje)
   ##############FIN DE MENSAJES################################
