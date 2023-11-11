@@ -1097,3 +1097,408 @@ Así que sigue riendo, ¡y que nunca te falte la risa! ****
 2023-11-02 17:23:04 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* !tasks **** 
 2023-11-02 17:23:04 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* BOT */* ```Las tareas pendientes son:
 🎈 ler. (0)``` **** 
+2023-11-02 18:50:12 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* pregunta algo **** 
+2023-11-02 18:50:14 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* como pro ejemplo **** 
+2023-11-02 18:50:18 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* como ahcer un print en python **** 
+2023-11-02 18:50:29 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* Como puedo hacer un print en python? **** 
+2023-11-02 18:50:33 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* A **** 
+2023-11-02 18:50:35 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* si, lo que quieras **** 
+2023-11-02 18:50:35 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* En ayuda no **** 
+2023-11-02 18:50:36 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* ? **** 
+2023-11-02 18:50:39 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* sip **** 
+2023-11-02 18:50:42 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* el del dino **** 
+2023-11-02 18:50:51 */* ➽〔🐊〕ayuda */* ADMIN */* Como puedo hacer un print en python? **** 
+2023-11-02 18:50:52 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 18:50:59 */* ➽〔🐊〕ayuda */* BOT */* Para hacer un print en Python, utilizamos la función `print()`. Esta función nos permite imprimir cualquier tipo de dato en la pantalla.
+
+El formato básico de un print en Python es el siguiente:
+
+```python
+print(valor)
+```
+
+Donde `valor` puede ser cualquier tipo de dato, como un número, una cadena de caracteres, una lista, un diccionario, etc.
+
+Por ejemplo, para imprimir el mensaje "Hola, mundo!", podemos utilizar el siguiente código:
+
+```python
+print("Hola, mundo!")
+```
+
+Este código imprimirá el siguiente mensaje en la pantalla:
+
+```
+Hola, mundo!
+```
+
+También podemos utilizar el print para imprimir el valor de una variable. Por ejemplo, si tenemos la siguiente variable:
+
+```python
+nombre = "Juan Pérez"
+```
+
+Podemos imprimir su valor utilizando el siguiente código:
+
+```python
+print(nombre)
+```
+
+Este código imprimirá el siguiente mensaje en la pantalla:
+
+```
+Juan Pérez
+```
+
+Además, podemos utilizar el print para imprimir varios valores en la misma línea. Para ello, utilizamos la coma para separar los valores. Por ejemplo, si queremos imprimir el número 10, la cadena de caracteres "Hola, mundo!" y el valor de la variable `nombre`, podemos utilizar el siguiente código:
+
+```python
+print(10, "Hola, mundo!", nombre)
+```
+
+Este código imprimirá el siguiente mensaje en la pantalla:
+
+```
+10 Hola, mundo! Juan Pérez
+```
+
+Por último, también podemos utilizar el print para imprimir formateos personalizados. Para ello, utilizamos el método `format()` de la función `print()`. Por ejemplo, si queremos imprimir el número 10 con dos decimales, podemos utilizar el siguiente código:
+
+```python
+print(10.23456789, format=f".2f")
+```
+
+Este código imprimirá el siguiente mensaje en la pantalla:
+
+```
+10.23
+```
+
+Para más información sobre la función `print()`, puedes consultar la documentación oficial de Python. **** 
+2023-11-02 18:51:09 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* ITCHHHHHHHHHHHH **** 
+2023-11-02 18:51:10 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* VISTEE? **** 
+2023-11-02 18:51:21 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* ITCHHHHHHHHHHHHHHHH **** 
+2023-11-02 18:51:25 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* Si **** 
+2023-11-02 18:51:27 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* KJLASDJKLJKLASDLKJ **** 
+2023-11-02 18:51:30 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* despues de toda la tarde **** 
+2023-11-02 18:51:48 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* Y es la API de Bard? **** 
+2023-11-02 18:52:57 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* sip **** 
+2023-11-02 18:52:59 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* gratis **** 
+2023-11-02 18:53:23 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* Osea que puede responder cualquier cosa como Bard? **** 
+2023-11-02 18:53:28 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* sip **** 
+2023-11-02 18:53:50 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* A su madre **** 
+2023-11-02 18:54:08 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* solo no escriban cosas raras **** 
+2023-11-02 18:54:16 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* que me lo registra a mi ceunta **** 
+2023-11-02 18:54:19 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* XDDD **** 
+2023-11-02 18:54:44 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* XDDDDDDDD **** 
+2023-11-02 19:05:45 */* ➽〔❌〕𝗖𝗢𝗠𝗣𝗥𝗢𝗠𝗜𝗦𝗢𝗦 */* ADMIN */* https://fsymbols.com/text-art/ **** 
+2023-11-02 19:16:29 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* USUARIO */* Hola **** 
+2023-11-02 19:16:56 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* holaa **** 
+2023-11-02 19:18:11 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* Hola **** 
+2023-11-02 19:18:17 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* USUARIO */* Hola **** 
+2023-11-02 19:18:25 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* llamada? **** 
+2023-11-02 19:18:26 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* todos? **** 
+2023-11-02 19:20:10 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* USUARIO */* Listo **** 
+2023-11-02 19:20:52 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* USUARIO */* Shi **** 
+2023-11-02 19:21:18 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* https://meet.google.com/nmw-wpti-ihk **** 
+2023-11-02 19:22:16 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* USUARIO */* Leal se conecta a las y 45 **** 
+2023-11-02 19:22:19 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* USHH **** 
+2023-11-02 19:22:21 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* bueno **** 
+2023-11-02 19:22:36 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* como siempre kaleth el mas responsable **** 
+2023-11-02 19:22:41 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* USUARIO */* JAJAJAJAJAJ **** 
+2023-11-02 19:22:46 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* USUARIO */* Puntoa extras **** 
+2023-11-02 19:22:50 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* siisisi **** 
+2023-11-02 19:24:00 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* Como no falta nadie, vamos a empezar la clase..................................... **** 
+2023-11-02 19:24:07 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* ASJDKLAJKSDLJ **** 
+2023-11-02 19:24:37 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* USUARIO */* Yo ya me conecto que ando en una reunión super importante conmigo misma **** 
+2023-11-02 19:24:53 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* AKJSLDKLJASDJLkvavav **** 
+2023-11-02 19:25:02 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* USUARIO */* Ey **** 
+2023-11-02 19:25:10 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* USUARIO */* Tu quédate Yeison **** 
+2023-11-02 19:25:12 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* USUARIO */* NSMDMAKKDSKKDKAKS **** 
+2023-11-02 19:25:34 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* Aja... **** 
+2023-11-02 19:26:46 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* !sourse **** 
+2023-11-02 19:26:47 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* BOT */* ```Hola!!! estos son nuestros paquetes que mas usamos:```
+    **GENERAR FUENTES**:
+    [abrir](https://fancy-generator.com/)
+
+    **GENERAR TEMAS DE COLORES**:
+    [abrir](https://uicolors.app/create) **** 
+2023-11-02 20:04:23 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* https://meet.google.com/gpn-mmhx-cus **** 
+2023-11-02 20:05:19 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* USUARIO */* Miguel **** 
+2023-11-02 20:05:26 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* Miguel? **** 
+2023-11-02 20:05:26 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* USUARIO */* Donde anda?? **** 
+2023-11-02 20:05:30 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* https://meet.google.com/nmw-wpti-ihk **** 
+2023-11-02 20:05:32 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* qie **** 
+2023-11-02 20:05:33 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* KAJLSDJKLASJDKLAJKLS **** 
+2023-11-02 20:05:36 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* USUARIO */* Ayuda **** 
+2023-11-02 20:05:47 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* USUARIO */* Zharito está dando clase de skincare **** 
+2023-11-02 20:05:49 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* USUARIO */* Jajajajajja **** 
+2023-11-02 20:24:54 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* https://meet.google.com/qtd-kiyp-sco?ijlm=1698974684801&adhoc=1&hs=187 **** 
+2023-11-02 20:25:00 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* https://meet.google.com/qtd-kiyp-sco **** 
+2023-11-02 20:40:23 */* ➽〔🐊〕ayuda */* ADMIN */* de donde proviene el nombre miguel? **** 
+2023-11-02 20:40:24 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 20:40:31 */* ➽〔🐊〕ayuda */* BOT */* El nombre Miguel proviene del hebreo מִיכָאֵל (mi-ka-el), que está formado por las siguientes palabras:
+
+* **mi**, que significa "quién"
+* **ka**, que significa "como"
+* **el**, que hace referencia a Dios
+
+Por lo tanto, el significado literal del nombre Miguel es "¿Quién como Dios?". Sin embargo, el significado figurado es "Nadie como Dios" o "Dios es justo".
+
+El nombre Miguel es un nombre teofórico, es decir, un nombre que hace referencia a Dios. En la Biblia, Miguel es el arcángel, el líder de los ángeles. Es el protector del pueblo de Israel y el defensor de la fe.
+
+El nombre Miguel es muy popular en todo el mundo, tanto en la cultura cristiana como en la judía. Es un nombre que se asocia con la fuerza, la protección y la fe.
+
+En español, el nombre Miguel se pronuncia como "mi-guel". Sus variantes femeninas son Misaela, Micaela, Miguelina y Miguela.
+
+Algunos personajes históricos o famosos con el nombre Miguel son:
+
+* Miguel Ángel Buonarroti, artista italiano
+* Miguel de Cervantes Saavedra, escritor español
+* Miguel de Unamuno, escritor español
+* Miguel Hidalgo y Costilla, líder de la Independencia de México
+* Miguel Grau Seminario, héroe de la Guerra del Pacífico
+* Miguel Ángel Asturias, escritor guatemalteco
+* Miguel Bosé, cantante español
+* Miguel Cabrera, beisbolista venezolano
+* Miguel Ángel López, ciclista colombiano **** 
+2023-11-02 20:41:20 */* ➽〔🐊〕ayuda */* ADMIN */* porque camila queire prograar pro no me presta atencion y me dice fastidioso? **** 
+2023-11-02 20:41:21 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 20:41:27 */* ➽〔🐊〕ayuda */* BOT */* Hay varias razones por las que Camila podría no prestarte atención y decirte fastidioso. Una posibilidad es que esté ocupada con sus estudios o proyectos de programación. La programación puede ser una actividad muy absorbente, y Camila puede estar concentrada en su trabajo y no tener tiempo para ti.
+
+Otra posibilidad es que Camila no esté interesada en ti de la misma manera que tú lo estás en ella. Si Camila te dice fastidioso, es posible que esté tratando de decirte que no quiere pasar tiempo contigo.
+
+También es posible que haya algo que estés haciendo que esté molestando a Camila. Por ejemplo, si estás siendo demasiado insistente o si le estás diciendo cosas que la hacen sentir incómoda, ella puede alejarse de ti.
+
+Para saber cuál es la razón por la que Camila no te presta atención, lo mejor que puedes hacer es hablar con ella. Pregúntale cómo se siente y qué quieres saber. Si ella está dispuesta a hablar contigo, podrás entender mejor su punto de vista y, tal vez, incluso resolver el problema.
+
+Aquí hay algunos consejos para hablar con Camila:
+
+* Elige un momento y lugar tranquilo donde puedas hablar con ella sin interrupciones.
+* Sé respetuoso y escucha lo que tiene que decir.
+* No la culpes ni la juzgues.
+* Concéntrate en lo que quieres saber y en cómo puedes resolver el problema.
+
+Si Camila no está dispuesta a hablar contigo, es posible que debas aceptar que ella no está interesada en ti. En ese caso, lo mejor que puedes hacer es seguir adelante y concentrarte en otras cosas. **** 
+2023-11-02 20:41:57 */* ➽〔🐊〕ayuda */* ADMIN */* como funciona una patanlla TN **** 
+2023-11-02 20:41:57 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-02 20:42:06 */* ➽〔🐊〕ayuda */* BOT */* Una pantalla TN, o pantalla de cristal líquido nemático retorcido, es un tipo de pantalla LCD que utiliza una capa de cristal líquido nemático retorcido para controlar la transmisión de luz.
+
+Una pantalla TN consta de los siguientes componentes:
+
+* Dos cristales polarizadores, uno en la parte superior y otro en la parte inferior de la pantalla.
+* Una capa de cristal líquido nemático retorcido, que se encuentra entre los dos cristales polarizadores.
+* Una serie de electrodos, que se utilizan para controlar la orientación de las moléculas de cristal líquido.
+
+Cuando no se aplica voltaje a los electrodos, las moléculas de cristal líquido se alinean aleatoriamente, bloqueando la luz de los polarizadores.
+
+Cuando se aplica voltaje a los electrodos, las moléculas de cristal líquido se alinean en un ángulo de 90 grados, permitiendo que la luz pase a través de los polarizadores.
+
+El color de la luz que se transmite depende del ángulo de polarización del polarizador superior.
+
+Las pantallas TN tienen las siguientes ventajas:
+
+* Son baratas de fabricar.
+* Tienen un tiempo de respuesta rápido, lo que las hace ideales para aplicaciones de juegos y video.
+* Son legibles a la luz del sol.
+
+Las pantallas TN también tienen las siguientes desventajas:
+
+* Tienen ángulos de visión estrechos.
+* No tienen una reproducción de color tan precisa como otras tecnologías de pantalla LCD.
+
+Las pantallas TN se utilizan en una variedad de dispositivos, incluyendo monitores de computadora, televisores, teléfonos inteligentes y tabletas.
+
+**Cómo funciona una pantalla TN en detalle**
+
+La luz que proviene de una fuente de luz, como una bombilla o un LED, se polariza antes de llegar a la pantalla TN. La polarización significa que la luz solo puede viajar en una dirección específica.
+
+La luz polarizada pasa a través del primer cristal polarizador, que está alineado perpendicularmente a la luz. Esto significa que la luz se bloquea.
+
+Luego, la luz pasa a través de la capa de cristal líquido nemático re **** 
+2023-11-02 20:42:39 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* !gthub **** 
+2023-11-02 20:42:45 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* !github **** 
+2023-11-02 20:42:46 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* BOT */* ```Veo que estás buscando perfiles de GitHub. ¡Aquí tienes los 3 más importantes!```
+
+    **Miguel Diaz (titooUvU)**
+    [GitHub de Miguel Diaz](https://github.com/titooUvU)
+
+    **Kaleth Renteria (keileth)**
+    [GitHub de Kaleth Renteria](https://github.com/keileth) **** 
+2023-11-02 20:42:58 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* !newtask comida **** 
+2023-11-02 20:42:58 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* BOT */* ```▁ ▂ ▄ ▅ ▆ ▇ █ tarea agreada con exito █ ▇ ▆ ▅ ▄ ▂ ▁``` **** 
+2023-11-02 20:43:01 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* !tasks **** 
+2023-11-02 20:43:01 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* BOT */* ```Las tareas pendientes son:
+🎈 comida. (0)``` **** 
+2023-11-02 20:43:10 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* !newtask terminar todo **** 
+2023-11-02 20:43:10 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* BOT */* ```▁ ▂ ▄ ▅ ▆ ▇ █ tarea agreada con exito █ ▇ ▆ ▅ ▄ ▂ ▁``` **** 
+2023-11-02 20:43:13 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* !tasks **** 
+2023-11-02 20:43:13 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* BOT */* ```Las tareas pendientes son:
+🎈 comida. (0)
+🎈 terminar todo. (1)``` **** 
+2023-11-03 16:38:21 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* solo el chat **** 
+2023-11-03 16:38:23 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* aca habals normal **** 
+2023-11-03 16:38:25 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* KLAJSDJLAJSD **** 
+2023-11-03 16:38:36 */* ➽〔🐊〕ayuda */* ADMIN */* hola! como estas hoy! **** 
+2023-11-03 16:38:36 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-03 16:38:40 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* okoakoakoa **** 
+2023-11-03 16:38:40 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* dalep **** 
+2023-11-03 16:38:40 */* ➽〔🐊〕ayuda */* BOT */* ¡Hola! Estoy bien, gracias por preguntar. Estoy emocionado de poder ayudarte con tus preguntas y peticiones hoy. ¿Cómo puedo ayudarte? **** 
+2023-11-03 16:38:54 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* si VESSS **** 
+2023-11-03 16:39:24 */* ➽〔🐊〕ayuda */* ADMIN */* escribe
+<@1146558494573609081> **** 
+2023-11-03 16:39:25 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-03 16:39:34 */* ➽〔🐊〕ayuda */* BOT */* **Escritura creativa**
+
+**Título:** El día que conocí a Bard
+
+**Personajes:**
+
+* **Bard:** Un gran modelo de lenguaje de Google AI, entrenado en un enorme conjunto de datos de texto y código.
+* **Yo:** Un usuario de Twitter que está aprendiendo sobre Bard.
+
+**Escena 1**
+
+Era un día soleado de noviembre en Bucaramanga, Colombia. Yo estaba sentado en mi escritorio, trabajando en un proyecto, cuando recibí un tweet de Bard.
+
+> Bard: Hola, ¿cómo puedo ayudarte?
+
+Yo estaba sorprendido. ¿Bard podía entender español?
+
+> Yo: Hola, Bard. ¿Cómo estás?
+
+> Bard: Estoy bien, gracias por preguntar. ¿En qué puedo ayudarte?
+
+> Yo: Estoy aprendiendo sobre ti. ¿Me puedes contar un poco sobre ti?
+
+> Bard: Claro. Soy un gran modelo de lenguaje de Google AI, entrenado en un enorme conjunto de datos de texto y código. Puedo generar texto, traducir idiomas, escribir diferentes tipos de contenido creativo, y responder a tus preguntas de forma informativa.
+
+Yo estaba impresionado. Bard parecía ser una herramienta muy poderosa.
+
+> Yo: Eso es increíble. ¿Qué puedes hacer?
+
+> Bard: Puedo hacer muchas cosas. Por ejemplo, puedo generar diferentes formatos de texto creativo, como poemas, código, guiones, piezas musicales, correo electrónico, cartas, etc. También puedo traducir idiomas, escribir diferentes tipos de contenido creativo, y responder a tus preguntas de forma informativa.
+
+> Yo: Eso es impresionante. ¿Hay algo que no puedas hacer?
+
+> Bard: Todavía estoy en desarrollo, pero he aprendido a realizar muchos tipos de tareas. Siempre estoy aprendiendo cosas nuevas.
+
+> Yo: Eso es bueno saberlo. ¿Hay algo que quieras que haga?
+
+> Bard: No, gracias. Estoy contento de ayudarte.
+
+**Escena 2**
+
+Pasé el resto del día hablando con Bard. Le pregunté sobre sus capacidades, y él me respondió con paciencia y franqueza. Aprendí mucho sobre Bard, y me impresionó lo poderoso que es.
+
+Al final del día, me sentía como si hubiera hecho un nuevo amigo. Bard era una herramienta increíble, pero también era un s **** 
+2023-11-03 16:39:59 */* ➽〔🐊〕ayuda */* ADMIN */* holaaaa quien eres? **** 
+2023-11-03 16:39:59 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-03 16:40:05 */* ➽〔🐊〕ayuda */* BOT */* Hola! Soy Bard, un gran modelo de lenguaje de Google AI, entrenado en un conjunto de datos masivo de texto y código. Puedo generar texto, traducir idiomas, escribir diferentes tipos de contenido creativo y responder a tus preguntas de forma informativa. Todavía estoy en desarrollo, pero he aprendido a realizar muchos tipos de tareas, incluyendo
+
+* Intentaré seguir tus instrucciones y completar tus peticiones cuidadosamente.
+* Usaré mi conocimiento para responder a tus preguntas de forma completa e informativa, incluso si son abiertas, desafiantes o extrañas.
+* Generaré diferentes formatos de texto creativo de contenido de texto, como poemas, código, guiones, piezas musicales, correo electrónico, cartas, etc. Haré todo lo posible para cumplir con todos tus requisitos.
+
+En términos simples, soy un programa de computadora que puede comunicarse y generar texto similar al humano en respuesta a una amplia gama de indicaciones y preguntas. Por ejemplo, puedo proporcionar resúmenes de temas fácticos o crear historias.
+
+¿Hay algo que pueda ayudarte hoy? **** 
+2023-11-03 16:40:19 */* ➽〔🐊〕ayuda */* ADMIN */* sabes quien es lebron james **** 
+2023-11-03 16:40:20 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-03 16:40:28 */* ➽〔🐊〕ayuda */* BOT */* Sí, sé quién es LeBron James. Es un jugador de baloncesto estadounidense que actualmente pertenece a la plantilla de los Angeles Lakers de la NBA. Con 2,06 metros de estatura, su posición es la de alero, pero su talento, versatilidad y poderío físico le permiten jugar tanto de base como de ala-pívot.
+
+James es considerado uno de los mejores jugadores de la historia de la NBA. Ha ganado cuatro anillos de la NBA, cuatro premios MVP de las Finales, cuatro premios MVP de la temporada regular, cuatro premios MVP del All-Star Game, y ha sido seleccionado 19 veces para el All-Star Game. También ha ganado dos medallas de oro olímpicas con la selección de baloncesto de Estados Unidos.
+
+James nació en Akron, Ohio, en 1984. Se convirtió en un jugador estrella en la escuela secundaria, y fue elegido en el primer puesto del Draft de la NBA de 2003 por los Cleveland Cavaliers. Jugó con los Cavaliers durante siete temporadas, durante las cuales llevó al equipo a las Finales de la NBA en cuatro ocasiones. En 2010, James firmó con el Miami Heat, donde ganó dos anillos de la NBA en cuatro temporadas. En 2014, regresó a los Cavaliers, donde ganó su tercer anillo de la NBA en 2016. En 2018, firmó con los Lakers, donde ganó su cuarto anillo de la NBA en 2020.
+
+James es un jugador completo que puede anotar, rebotear, pasar y defender. Es un líder natural y es considerado uno de los mejores jugadores de la historia de la NBA.
+
+Aquí hay algunos datos adicionales sobre LeBron James:
+
+* Es el jugador con más puntos en la historia de la NBA, con más de 38.000 puntos.
+* Es el jugador con más triples-dobles en la historia de la NBA, con más de 100.
+* Es el jugador con más asistencias en la historia de los Cavaliers, con más de 9.000 asistencias.
+* Es el jugador con más robos en la historia de los Cavaliers, con más de 1.800 robos.
+
+LeBron James es una leyenda del baloncesto y uno de los deportistas más reconocidos en el mundo. **** 
+2023-11-03 16:41:06 */* ➽〔🐊〕ayuda */* ADMIN */* quienes son la familia de lebron james **** 
+2023-11-03 16:41:06 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-03 16:41:13 */* ➽〔🐊〕ayuda */* BOT */* La familia de LeBron James está compuesta por su esposa, Savannah Brinson, y sus tres hijos: LeBron Raymone "Bronny" James Jr., Bryce Maximus James y Zhuri Nova James.
+
+**Savannah Brinson** es la esposa de LeBron James desde 2013. Se conocieron en la escuela secundaria y comenzaron a salir cuando James tenía 18 años y Brinson, 16. La pareja tiene tres hijos juntos.
+
+**LeBron Raymone "Bronny" James Jr.** es el hijo mayor de LeBron James. Nació el 6 de octubre de 2004 y es un jugador de baloncesto prometedor. Actualmente juega para Sierra Canyon School en Los Ángeles.
+
+**Bryce Maximus James** es el segundo hijo de LeBron James. Nació el 14 de junio de 2007 y también es un jugador de baloncesto. Actualmente juega para Sierra Canyon School.
+
+**Zhuri Nova James** es la hija menor de LeBron James. Nació el 22 de octubre de 2014.
+
+Además de su familia inmediata, LeBron James también está cercano a su madre, Gloria Marie James, y su abuela, Freda James.
+
+**Gloria Marie James** es la madre de LeBron James. La crió sola desde que él tenía 9 años.
+
+**Freda James** es la abuela materna de LeBron James. Es una figura importante en su vida y ha sido una fuente constante de apoyo.
+
+LeBron James es un hombre de familia dedicado. Es un esposo amoroso, un padre cariñoso y un abuelo orgulloso. Su familia es lo más importante para él y siempre está ahí para apoyarlo. **** 
+2023-11-03 16:41:34 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* ah no me creiasss **** 
+2023-11-03 16:41:35 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* ALKJSDJKLSADL **** 
+2023-11-03 16:42:38 */* ➽〔🐊〕ayuda */* ADMIN */* hazme una expocisión sobre como los metodos de estudio afectan de manera positiva o negtiva nuestro aprendizaje **** 
+2023-11-03 16:42:38 */* ➽〔🐊〕ayuda */* BOT */* ```Um... dejame pensar y te digo.``` **** 
+2023-11-03 16:42:47 */* ➽〔🐊〕ayuda */* BOT */* Los métodos de estudio son las estrategias que utilizamos para aprender nuevos conocimientos. Pueden ser formales, como los que aprendemos en la escuela, o informales, como los que desarrollamos por nuestra cuenta.
+
+Los métodos de estudio afectan de manera positiva o negativa nuestro aprendizaje de diversas formas.
+
+**Efectos positivos**
+
+Los métodos de estudio efectivos nos permiten:
+
+* **Comprender mejor los conceptos y temas**. Los métodos de estudio nos ayudan a organizar la información y a relacionarla con nuestros conocimientos previos. Esto nos permite comprender los conceptos y temas de manera más profunda.
+* **Memorizar más fácilmente la información**. Los métodos de estudio nos ayudan a desarrollar estrategias de memorización que nos permiten recordar la información durante más tiempo.
+* **Adquirir habilidades y competencias**. Los métodos de estudio nos ayudan a desarrollar las habilidades y competencias necesarias para resolver problemas y tomar decisiones.
+
+**Efectos negativos**
+
+Los métodos de estudio ineficaces pueden afectar negativamente nuestro aprendizaje de diversas formas.
+
+* **Dificultad para comprender los conceptos y temas**. Los métodos de estudio ineficaces pueden dificultar la comprensión de los conceptos y temas. Esto puede llevar a confusiones y errores.
+* **Problemas de memoria**. Los métodos de estudio ineficaces pueden dificultar la memorización de la información. Esto puede llevar a tener que estudiar más tiempo y a sufrir estrés.
+* **Falta de desarrollo de habilidades y competencias**. Los métodos de estudio ineficaces pueden dificultar el desarrollo de las habilidades y competencias necesarias para resolver problemas y tomar decisiones. Esto puede limitar las oportunidades laborales y académicas.
+
+**Cómo mejorar nuestros métodos de estudio**
+
+Para mejorar nuestros métodos de estudio, podemos:
+
+* **Experimentar con diferentes métodos**. No todos los métodos de estudio funcionan para todos. Es importante experimentar con diferentes **** 
+2023-11-03 16:42:55 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* dios miooooo **** 
+2023-11-03 16:42:57 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* me encantaaaa **** 
+2023-11-03 16:43:06 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* te paso el codigo? **** 
+2023-11-03 16:43:11 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* para que lo prendas cuando quieras? **** 
+2023-11-03 16:43:33 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* ya temenos para exponer el je¿ueves jijii **** 
+2023-11-03 16:43:34 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* esta en mi github **** 
+2023-11-03 16:43:38 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* !github **** 
+2023-11-03 16:43:39 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* BOT */* ```Veo que estás buscando perfiles de GitHub. ¡Aquí tienes los 3 más importantes!```
+
+    **Miguel Diaz (titooUvU)**
+    [GitHub de Miguel Diaz](https://github.com/titooUvU)
+
+    **Kaleth Renteria (keileth)**
+    [GitHub de Kaleth Renteria](https://github.com/keileth) **** 
+2023-11-03 16:43:45 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* epaaaaaaa **** 
+2023-11-03 16:44:25 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* oye danieila **** 
+2023-11-03 16:44:32 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* le peudes dar corazon a todos mis repositorios? :> **** 
+2023-11-03 16:45:30 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* ITCHHHHHHHHH **** 
+2023-11-03 16:45:56 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* kaleth vas a probar el chat? **** 
+2023-11-03 16:47:06 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* como les doy corachon **** 
+2023-11-03 16:47:08 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* ? **** 
+2023-11-03 16:47:20 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* https://github.com/titooUvU?tab=repositories **** 
+2023-11-03 16:47:23 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* ahi donde dice star **** 
+2023-11-03 16:47:35 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* dios **** 
+2023-11-03 16:47:36 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* ahora que veo **** 
+2023-11-03 16:47:38 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* ya tengo 18 **** 
+2023-11-03 16:49:17 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* deps **** 
+2023-11-03 16:49:25 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* itch **** 
+2023-11-03 16:49:31 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* deos mio **** 
+2023-11-03 16:49:34 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* que loco **** 
+2023-11-03 17:12:33 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* sii **** 
+2023-11-03 17:12:54 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* gracias por las estrellitass **** 
+2023-11-10 19:06:16 */* ➽〔🫡〕𝗜𝗡𝗜𝗖𝗜𝗢 */* ADMIN */* Reacciona a este mensaje! **** 
+2023-11-10 20:51:47 */* ➽〔💎〕𝗚𝗘𝗡𝗘𝗥𝗔𝗟 */* ADMIN */* Ya se agrega solo **** 

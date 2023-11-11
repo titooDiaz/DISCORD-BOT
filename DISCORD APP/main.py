@@ -3,7 +3,6 @@ import os
 from bardapi import Bard
 from termcolor import colored
 import datetime
-from discord.ext import commands
 
 dotenv_path = os.path.join(os.path.dirname(__file__), '../.env')
 if os.path.isfile(dotenv_path):
@@ -33,24 +32,18 @@ tasks = []
 
 @client.event
 async def on_raw_reaction_add(payload):
-  if payload.channel_id == 1163145685407903827:
+    guild = client.get_guild(payload.guild_id)
+    if payload.channel_id == 1163145685407903827:
         emoji = payload.emoji.name
         message_id = payload.message_id
         user_id = payload.user_id
-        print(f'El usuario con ID {user_id} reaccionó al mensaje con ID {message_id} con el emoji {emoji}')
-        guild = client.get_guild(payload.guild_id)
         user = await guild.fetch_member(user_id)
-        rol_id = 1163182355708661900
-        print(user)
-        if user:
-            print(user,'akjsldjkasdj')
-            if discord.utils.get(user.roles, id=rol_id) is None:
-                role = client.get_guild(payload.guild_id).get_role(rol_id)
-                if role:
-                    await user.add_roles(role)
-                    print(f'Se le ha asignado el rol con ID {rol_id} a {user.name} por su reacción.')
-                else:
-                    print(f'El rol con ID {rol_id} no se encontró en el servidor.')
+
+        # Obtiene el objeto Role que representa el rol que deseas agregar al usuario
+        rol_obj = guild.get_role(1163182355708661900)
+
+        await user.add_roles(rol_obj)
+
     
 
 @client.event
