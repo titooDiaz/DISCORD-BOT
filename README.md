@@ -19,3 +19,5 @@ Para instalar los paquetes necesarios:
 <hr/>
 
 <br/>
+
+// ( dejo de funcionar la IA potenciada con Google bard )
