@@ -20,4 +20,4 @@ Para instalar los paquetes necesarios:
 
 <br/>
 
-// ( dejo de funcionar la IA potenciada con Google bard )
+// ( dejo de funcionar la IA potenciada con Google bard ) **
