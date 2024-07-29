@@ -21,3 +21,4 @@ Para instalar los paquetes necesarios:
 <br/>
 
 // ( dejo de funcionar la IA potenciada con Google bard ) **
+En su lugar usaremos Google Gemini 
